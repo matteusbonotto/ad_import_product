@@ -4,5 +4,5 @@
 ### Projeto desenvolvido para auxiliar lojistas parceiros da plataforma americanas deli>ery
 ##### Oque precisei para esse projeto
 <div> 
-  <img src="https://img.shields.io/badge/-VBA-%230077B5?style=for-the-badge&logo=office&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-VBA-%230077B5?style=for-the-badge&logo=Excel&logoColor=white"> 
 </div>
