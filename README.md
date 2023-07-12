@@ -13,11 +13,11 @@ A plataforma Americanas Delivery é um serviço de marketplace oferecido pela Am
 A planilha "Geradora de CSV" é uma ferramenta desenvolvida para simplificar o processo de criação de arquivos CSV contendo informações dos produtos a serem importados para a plataforma Americanas Delivery. Ela automatiza tarefas repetitivas e facilita a formatação correta dos dados.
 
 ### Tecnologias Utilizadas
-<div> 
-  <img src="https://img.shields.io/badge/-VBA-darkgreen?style=for-the-badge&logo=Microsoft-excel&logoColor=white"> 
-</div>
-- VBA (Visual Basic for Applications) - Utilizado para desenvolver a versão da planilha para o Microsoft Excel.
-- VBO (Visual Basic for Office) - Utilizado para desenvolver a versão da planilha para o LibreOffice.
+<div><img src="https://img.shields.io/badge/-VBA-darkgreen?style=for-the-badge&logo=Microsoft-excel&logoColor=white"></div>
+<ul>
+  <li>VBA (Visual Basic for Applications) - Utilizado para desenvolver a versão da planilha para o Microsoft Excel.</li>
+  <li>VBO (Visual Basic for Office) - Utilizado para desenvolver a versão da planilha para o LibreOffice.</li>
+</ul>
 
 ### Instruções de Uso
 
